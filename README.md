@@ -1,2 +1,2 @@
 # jokes-api
-Using Mongoose and Postman to give CRUD functionality to our projects
+Using Mongoose to give CRUD functionality to our projects and Postman to test those CRUD functions
